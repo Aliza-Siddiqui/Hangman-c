@@ -1,4 +1,5 @@
-# Hangman-c
+# Hangman-c  
+*This is a simple hangman made using only the basics of c language including loops and conditional statements as for my first project.*  
 ```bash
                                     Welcome to Hangman!
 ----------------------------------------------------------------------------------------------------------------------
