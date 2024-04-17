@@ -31,5 +31,5 @@ Gameplay continues until the players guess the word or they run out of guesses a
 ## Contact 
 
 Email- sializa077@gmail.com  
-Instagram-[Instagram](https://www.instagram.com/aliza_siddiqui_._/)
+Instagram-[Instagram](https://www.instagram.com/aliza_siddiqui_._/)  
 Github- [Github profile](https://github.com/Aliza-Siddiqui)
