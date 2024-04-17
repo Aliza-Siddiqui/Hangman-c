@@ -29,5 +29,5 @@ Gameplay continues until the players guess the word or they run out of guesses a
 
 *This Hangman game implementation is created by Aliza Siddiqui. Feel free to contribute to this project by submitting pull requests.*  
 ##Contact  
-Email-sializa077@gmail.com
+Email- sializa077@gmail.com  
 Instagram-[Instagram](https://www.instagram.com/aliza_siddiqui_._/)
