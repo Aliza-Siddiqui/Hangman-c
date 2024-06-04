@@ -11,11 +11,11 @@ int main() {
     int guessed_all_letters = 0;
 
     printf("                                  Welcome to Hangman!\n");
-    printf("----------------------------------------------------------------------------------------------------------------------\n");
+    printf("-----------------------------------------------------------------------------------------------------------------------\n");
     printf("                                      Game info:\n");
     printf("The object of hangman is to guess the secret word before the stick figure is hung.\n");
     printf("Players take turns selecting letters to narrow the word down.\nGameplay continues until the players guess the word or they run out of guesses and the stick figure is hung.\n");
-    printf("----------------------------------------------------------------------------------------------------------------------\n");
+    printf("-----------------------------------------------------------------------------------------------------------------------\n");
      
      
     while (wrong_guesses < MAX_WRONG_GUESSES && !guessed_all_letters) {
