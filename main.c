@@ -127,4 +127,5 @@ void drawHangman(int wrong_guesses) {
             printf("_____|___\n");
             break;
     }
+    return 0;
 }
